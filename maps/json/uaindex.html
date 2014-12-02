@@ -171,7 +171,7 @@ d3.json('ua.geo.json', function(error, data) {
 
     city.append("text")
     .attr("x", 5)
-    .text(function(d) { alert(d.City); return d.City; });
+    .text(function(d) { return d.City; });
   });
 
   d3.select(window).on('resize', resize);
