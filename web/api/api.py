@@ -52,7 +52,7 @@ import re
 
 def connect(custom):
         cparser = ConfigParser.RawConfigParser()
-        cpath = "/etc/apache2/nlgiss2.config"
+        cpath = "/etc/apache2/eurogis.config"
         cparser.read(cpath)
         options = {}
         dataoptions = cparser.items( "dataoptions" )
@@ -575,7 +575,7 @@ def clean():
         exceptdb = request.args.get('except')
 
     cparser = ConfigParser.RawConfigParser()
-    cpath = "/etc/apache2/nlgiss2.config"
+    cpath = "/etc/apache2/eurogis.config"
     cparser.read(cpath)
     imagepathloc = cparser.get('config', 'imagepathloc')
 
@@ -785,7 +785,7 @@ def data():
     dataset = data
     if csvexport:
         cparser = ConfigParser.RawConfigParser()
-        cpath = "/etc/apache2/nlgiss2.config"
+        cpath = "/etc/apache2/eurogis.config"
         cparser.read(cpath)
         imagepathloc = cparser.get('config', 'imagepathloc')
         # CSV
@@ -824,7 +824,7 @@ def data():
 def maps():
 
     cparser = ConfigParser.RawConfigParser()
-    cpath = "/etc/apache2/nlgiss2.config"
+    cpath = "/etc/apache2/eurogis.config"
     cparser.read(cpath)
     path = cparser.get('config', 'path')
     geojson = cparser.get('config', 'geojson')
