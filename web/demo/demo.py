@@ -58,7 +58,7 @@ urls = ["/", "index", "/site?year=1982&code=TEGM", "/developers", "/about"]
 
 def connect():
         cparser = ConfigParser.RawConfigParser()
-        cpath = "/etc/apache2/nlgiss2.config"
+        cpath = "/etc/apache2/eurogis.config"
         cparser.read(cpath)
 
         conn_string = "host='%s' dbname='%s' user='%s' password='%s'" % (cparser.get('config', 'dbhost'), cparser.get('config', 'dbname'), cparser.get('config', 'dblogin'), cparser.get('config', 'dbpassword'))
@@ -74,7 +74,7 @@ def connect():
 
 def readglobalvars():
     cparser = ConfigParser.RawConfigParser()
-    cpath = "/etc/apache2/nlgiss2.config"
+    cpath = "/etc/apache2/eurogis.config"
     cparser.read(cpath)
     path = cparser.get('config', 'path')
     geojson = cparser.get('config', 'geojson')
