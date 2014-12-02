@@ -1,0 +1,1468 @@
+{
+    "regions": [
+        {
+            "active": 1, 
+            "region_code": "2002_89", 
+            "region_description": "\u042f\u043c\u0430\u043b\u043e-\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", 
+            "region_id": 1, 
+            "region_name": "\u042f\u043c\u0430\u043b\u043e-\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", 
+            "region_ord": 110301084
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_88", 
+            "region_description": "\u042d\u0432\u0435\u043d\u043a\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", 
+            "region_id": 2, 
+            "region_name": "\u042d\u0432\u0435\u043d\u043a\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", 
+            "region_ord": 110101074
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_87", 
+            "region_description": "\u0427\u0443\u043a\u043e\u0442\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", 
+            "region_id": 3, 
+            "region_name": "\u0427\u0443\u043a\u043e\u0442\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", 
+            "region_ord": 109501091
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_86", 
+            "region_description": "\u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", 
+            "region_id": 4, 
+            "region_name": "\u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", 
+            "region_ord": 109301072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_83", 
+            "region_description": "\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", 
+            "region_id": 5, 
+            "region_name": "\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", 
+            "region_ord": 108501077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_82", 
+            "region_description": "\u041a\u043e\u0440\u044f\u043a\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", 
+            "region_id": 6, 
+            "region_name": "\u041a\u043e\u0440\u044f\u043a\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", 
+            "region_ord": 108201086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_81", 
+            "region_description": "\u041a\u043e\u043c\u0438-\u041f\u0435\u0440\u043c\u044f\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", 
+            "region_id": 7, 
+            "region_name": "\u041a\u043e\u043c\u0438-\u041f\u0435\u0440\u043c\u044f\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", 
+            "region_ord": 108201086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_79", 
+            "region_description": "\u0415\u0432\u0440\u0435\u0439\u0441\u043a\u0430\u044f \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 8, 
+            "region_name": "\u0415\u0432\u0440\u0435\u0439\u0441\u043a\u0430\u044f \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 107701074
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_78", 
+            "region_description": "\u0433. \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433", 
+            "region_id": 9, 
+            "region_name": "\u0433. \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433", 
+            "region_ord": 107500046
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_77", 
+            "region_description": "\u0433. \u041c\u043e\u0441\u043a\u0432\u0430", 
+            "region_id": 10, 
+            "region_name": "\u0433. \u041c\u043e\u0441\u043a\u0432\u0430", 
+            "region_ord": 107500046
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_76", 
+            "region_description": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 11, 
+            "region_name": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 110301088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_75", 
+            "region_description": "\u0427\u0438\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 12, 
+            "region_name": "\u0427\u0438\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 109501080
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_74", 
+            "region_description": "\u0447\u0435\u043b\u043e\u0432\u0435\u043a\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 13, 
+            "region_name": "\u0447\u0435\u043b\u043e\u0432\u0435\u043a\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 109501077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_73", 
+            "region_description": "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 14, 
+            "region_name": "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 109101083
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_72", 
+            "region_description": "\u0422\u044e\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 15, 
+            "region_name": "\u0422\u044e\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 109001102
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_71", 
+            "region_description": "\u0422\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 16, 
+            "region_name": "\u0422\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 109001091
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_70", 
+            "region_description": "\u0422\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 17, 
+            "region_name": "\u0422\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 109001086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_69", 
+            "region_description": "\u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 18, 
+            "region_name": "\u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 109001074
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_68", 
+            "region_description": "\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 19, 
+            "region_name": "\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 109001072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_67", 
+            "region_description": "\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 20, 
+            "region_name": "\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108901084
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_66", 
+            "region_description": "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 21, 
+            "region_name": "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108901074
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_65", 
+            "region_description": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 22, 
+            "region_name": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108901072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_64", 
+            "region_description": "\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 23, 
+            "region_name": "\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108901072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_63", 
+            "region_description": "\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 24, 
+            "region_name": "\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108901072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_62", 
+            "region_description": "\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 25, 
+            "region_name": "\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108801103
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_61", 
+            "region_description": "\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 26, 
+            "region_name": "\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108801086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_60", 
+            "region_description": "\u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 27, 
+            "region_name": "\u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108701089
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_59", 
+            "region_description": "\u041f\u0435\u0440\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 28, 
+            "region_name": "\u041f\u0435\u0440\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108701077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_58", 
+            "region_description": "\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 29, 
+            "region_name": "\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108701077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_57", 
+            "region_description": "\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 30, 
+            "region_name": "\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108601088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_56", 
+            "region_description": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 31, 
+            "region_name": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108601088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_55", 
+            "region_description": "\u041e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 32, 
+            "region_name": "\u041e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108601084
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_54", 
+            "region_description": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 33, 
+            "region_name": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108501086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_53", 
+            "region_description": "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 34, 
+            "region_name": "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108501086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_52", 
+            "region_description": "\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 35, 
+            "region_name": "\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108501080
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_51", 
+            "region_description": "\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 36, 
+            "region_name": "\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108401091
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_50", 
+            "region_description": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 37, 
+            "region_name": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108401086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_49", 
+            "region_description": "\u041c\u0430\u0433\u0430\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 38, 
+            "region_name": "\u041c\u0430\u0433\u0430\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108401072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_48", 
+            "region_description": "\u041b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 39, 
+            "region_name": "\u041b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108301080
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_47", 
+            "region_description": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 40, 
+            "region_name": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108301077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_46", 
+            "region_description": "\u041a\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 41, 
+            "region_name": "\u041a\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108201091
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_45", 
+            "region_description": "\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 42, 
+            "region_name": "\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108201091
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_44", 
+            "region_description": "\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 43, 
+            "region_name": "\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108201086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_43", 
+            "region_description": "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 44, 
+            "region_name": "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108201080
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_42", 
+            "region_description": "\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 45, 
+            "region_name": "\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108201077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_41", 
+            "region_description": "\u041a\u0430\u043c\u0447\u0430\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 46, 
+            "region_name": "\u041a\u0430\u043c\u0447\u0430\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108201072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_40", 
+            "region_description": "\u041a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 47, 
+            "region_name": "\u041a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108201072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_39", 
+            "region_description": "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 48, 
+            "region_name": "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108201072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_38", 
+            "region_description": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 49, 
+            "region_name": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108001088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_37", 
+            "region_description": "\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 50, 
+            "region_name": "\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 108001074
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_36", 
+            "region_description": "\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 51, 
+            "region_name": "\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 107401086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_35", 
+            "region_description": "\u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 52, 
+            "region_name": "\u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 107401086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_34", 
+            "region_description": "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 53, 
+            "region_name": "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 107401086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_33", 
+            "region_description": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 54, 
+            "region_name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 107401083
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_32", 
+            "region_description": "\u0411\u0440\u044f\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 55, 
+            "region_name": "\u0411\u0440\u044f\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 107301088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_31", 
+            "region_description": "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 56, 
+            "region_name": "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 107301077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_30", 
+            "region_description": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 57, 
+            "region_name": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 107201089
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_29", 
+            "region_description": "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 58, 
+            "region_name": "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 107201088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_28", 
+            "region_description": "\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_id": 59, 
+            "region_name": "\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "region_ord": 107201084
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_27", 
+            "region_description": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", 
+            "region_id": 60, 
+            "region_name": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", 
+            "region_ord": 109301072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_26", 
+            "region_description": "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", 
+            "region_id": 61, 
+            "region_name": "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", 
+            "region_ord": 108901090
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_25", 
+            "region_description": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", 
+            "region_id": 62, 
+            "region_name": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", 
+            "region_ord": 108701088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_24", 
+            "region_description": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", 
+            "region_id": 63, 
+            "region_name": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", 
+            "region_ord": 108201088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_23", 
+            "region_description": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", 
+            "region_id": 64, 
+            "region_name": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", 
+            "region_ord": 108201088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_22", 
+            "region_description": "\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", 
+            "region_id": 65, 
+            "region_name": "\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", 
+            "region_ord": 107201083
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_21", 
+            "region_description": "\u0427\u0443\u0432\u0430\u0448\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", 
+            "region_id": 66, 
+            "region_name": "\u0427\u0443\u0432\u0430\u0448\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", 
+            "region_ord": 109501091
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_20", 
+            "region_description": "\u0427\u0435\u0447\u0435\u043d\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", 
+            "region_id": 67, 
+            "region_name": "\u0427\u0435\u0447\u0435\u043d\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", 
+            "region_ord": 109501077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_19", 
+            "region_description": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0425\u0430\u043a\u0430\u0441\u0438\u044f", 
+            "region_id": 68, 
+            "region_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0425\u0430\u043a\u0430\u0441\u0438\u044f", 
+            "region_ord": 108801077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_18", 
+            "region_description": "\u0423\u0434\u043c\u0443\u0440\u0442\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", 
+            "region_id": 69, 
+            "region_name": "\u0423\u0434\u043c\u0443\u0440\u0442\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", 
+            "region_ord": 109101076
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_17", 
+            "region_description": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u044b\u0432\u0430", 
+            "region_id": 70, 
+            "region_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u044b\u0432\u0430", 
+            "region_ord": 108801077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_16", 
+            "region_description": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d", 
+            "region_id": 71, 
+            "region_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d", 
+            "region_ord": 108801077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_14", 
+            "region_description": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f)", 
+            "region_id": 72, 
+            "region_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f)", 
+            "region_ord": 108801077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_13", 
+            "region_description": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u043e\u0440\u0434\u043e\u0432\u0438\u044f", 
+            "region_id": 73, 
+            "region_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u043e\u0440\u0434\u043e\u0432\u0438\u044f", 
+            "region_ord": 108801077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_12", 
+            "region_description": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u0440\u0438\u0439 \u042d\u043b", 
+            "region_id": 74, 
+            "region_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u0440\u0438\u0439 \u042d\u043b", 
+            "region_ord": 108801077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_11", 
+            "region_description": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043c\u0438", 
+            "region_id": 75, 
+            "region_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043c\u0438", 
+            "region_ord": 108801077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_10", 
+            "region_description": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f", 
+            "region_id": 76, 
+            "region_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f", 
+            "region_ord": 108801077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_09", 
+            "region_description": "\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", 
+            "region_id": 77, 
+            "region_name": "\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", 
+            "region_ord": 108201072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_08", 
+            "region_description": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u043b\u043c\u044b\u043a\u0438\u044f", 
+            "region_id": 78, 
+            "region_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u043b\u043c\u044b\u043a\u0438\u044f", 
+            "region_ord": 108801077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_07", 
+            "region_description": "\u041a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043e-\u0411\u0430\u043b\u043a\u0430\u0440\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", 
+            "region_id": 79, 
+            "region_name": "\u041a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043e-\u0411\u0430\u043b\u043a\u0430\u0440\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", 
+            "region_ord": 108201072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_06", 
+            "region_description": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u043d\u0433\u0443\u0448\u0435\u0442\u0438\u044f", 
+            "region_id": 80, 
+            "region_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u043d\u0433\u0443\u0448\u0435\u0442\u0438\u044f", 
+            "region_ord": 108801077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_05", 
+            "region_description": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d", 
+            "region_id": 81, 
+            "region_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d", 
+            "region_ord": 108801077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_04", 
+            "region_description": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0442\u0430\u0439", 
+            "region_id": 82, 
+            "region_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0442\u0430\u0439", 
+            "region_ord": 108801077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_03", 
+            "region_description": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0443\u0440\u044f\u0442\u0438\u044f", 
+            "region_id": 83, 
+            "region_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0443\u0440\u044f\u0442\u0438\u044f", 
+            "region_ord": 108801077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_02", 
+            "region_description": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d", 
+            "region_id": 84, 
+            "region_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d", 
+            "region_ord": 108801077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "2002_01", 
+            "region_description": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0434\u044b\u0433\u0435\u044f", 
+            "region_id": 85, 
+            "region_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0434\u044b\u0433\u0435\u044f", 
+            "region_ord": 108801077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_97", 
+            "region_description": "\u044f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f", 
+            "region_id": 86, 
+            "region_name": "\u044f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f", 
+            "region_ord": 110301088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_96", 
+            "region_description": "\u044f\u043a\u0443\u0442\u0441\u043a\u0430\u044f", 
+            "region_id": 87, 
+            "region_name": "\u044f\u043a\u0443\u0442\u0441\u043a\u0430\u044f", 
+            "region_ord": 110301082
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_95", 
+            "region_description": "\u044d\u0441\u0442\u043b\u044f\u043d\u0434\u0441\u043a\u0430\u044f", 
+            "region_id": 88, 
+            "region_name": "\u044d\u0441\u0442\u043b\u044f\u043d\u0434\u0441\u043a\u0430\u044f", 
+            "region_ord": 110101089
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_94", 
+            "region_description": "\u044d\u0440\u0438\u0432\u0430\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 89, 
+            "region_name": "\u044d\u0440\u0438\u0432\u0430\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 110101088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_93", 
+            "region_description": "\u0447\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0441\u043a\u0430\u044f", 
+            "region_id": 90, 
+            "region_name": "\u0447\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0441\u043a\u0430\u044f", 
+            "region_ord": 109501077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_92", 
+            "region_description": "\u0447\u0435\u0440\u043d\u0438\u0433\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "region_id": 91, 
+            "region_name": "\u0447\u0435\u0440\u043d\u0438\u0433\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "region_ord": 109501077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_91", 
+            "region_description": "\u0445\u0435\u0440\u0441\u043e\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 92, 
+            "region_name": "\u0445\u0435\u0440\u0441\u043e\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 109301077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_90", 
+            "region_description": "\u0445\u0430\u0440\u044c\u043a\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "region_id": 93, 
+            "region_name": "\u0445\u0430\u0440\u044c\u043a\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "region_ord": 109301072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_89", 
+            "region_description": "\u0444\u0435\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 94, 
+            "region_name": "\u0444\u0435\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 109201077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_88", 
+            "region_description": "\u0443\u0444\u0438\u043c\u0441\u043a\u0430\u044f", 
+            "region_id": 95, 
+            "region_name": "\u0443\u0444\u0438\u043c\u0441\u043a\u0430\u044f", 
+            "region_ord": 109101092
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_87", 
+            "region_description": "\u0443\u0440\u0430\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_id": 96, 
+            "region_name": "\u0443\u0440\u0430\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_ord": 109101088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_86", 
+            "region_description": "\u0423\u043b\u0435\u0430\u0431\u043e\u0440\u0433\u0441\u043a\u0430\u044f", 
+            "region_id": 97, 
+            "region_name": "\u0423\u043b\u0435\u0430\u0431\u043e\u0440\u0433\u0441\u043a\u0430\u044f", 
+            "region_ord": 109101083
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_85", 
+            "region_description": "\u0442\u0443\u0440\u0433\u0430\u0439\u0441\u043a\u0430\u044f", 
+            "region_id": 98, 
+            "region_name": "\u0442\u0443\u0440\u0433\u0430\u0439\u0441\u043a\u0430\u044f", 
+            "region_ord": 109001091
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_84", 
+            "region_description": "\u0442\u0443\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_id": 99, 
+            "region_name": "\u0442\u0443\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_ord": 109001091
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_83", 
+            "region_description": "\u0442\u043e\u043c\u0441\u043a\u0430\u044f", 
+            "region_id": 100, 
+            "region_name": "\u0442\u043e\u043c\u0441\u043a\u0430\u044f", 
+            "region_ord": 109001086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_82", 
+            "region_description": "\u0442\u043e\u0431\u043e\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_id": 101, 
+            "region_name": "\u0442\u043e\u0431\u043e\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_ord": 109001086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_81", 
+            "region_description": "\u0442\u0438\u0444\u043b\u0438\u0441\u0441\u043a\u0430\u044f", 
+            "region_id": 102, 
+            "region_name": "\u0442\u0438\u0444\u043b\u0438\u0441\u0441\u043a\u0430\u044f", 
+            "region_ord": 109001080
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_80", 
+            "region_description": "\u0442\u0435\u0440\u0441\u043a\u0430\u044f", 
+            "region_id": 103, 
+            "region_name": "\u0442\u0435\u0440\u0441\u043a\u0430\u044f", 
+            "region_ord": 109001077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_79", 
+            "region_description": "\u0442\u0432\u0435\u0440\u0441\u043a\u0430\u044f", 
+            "region_id": 104, 
+            "region_name": "\u0442\u0432\u0435\u0440\u0441\u043a\u0430\u044f", 
+            "region_ord": 109001074
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_78", 
+            "region_description": "\u0442\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "region_id": 105, 
+            "region_name": "\u0442\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "region_ord": 109001072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_77", 
+            "region_description": "\u0442\u0430\u0432\u0440\u0438\u0447\u0435\u0441\u043a\u0430\u044f", 
+            "region_id": 106, 
+            "region_name": "\u0442\u0430\u0432\u0440\u0438\u0447\u0435\u0441\u043a\u0430\u044f", 
+            "region_ord": 109001072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_76", 
+            "region_description": "\u0422\u0430\u0432\u0430\u0441\u0442\u0433\u0443\u0441\u0441\u043a\u0430\u044f", 
+            "region_id": 107, 
+            "region_name": "\u0422\u0430\u0432\u0430\u0441\u0442\u0433\u0443\u0441\u0441\u043a\u0430\u044f", 
+            "region_ord": 109001072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_75", 
+            "region_description": "\u0441\u044b\u0440\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 108, 
+            "region_name": "\u0441\u044b\u0440\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 108901099
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_74", 
+            "region_description": "\u0441\u0443\u0432\u0430\u043b\u043a\u0441\u043a\u0430\u044f", 
+            "region_id": 109, 
+            "region_name": "\u0441\u0443\u0432\u0430\u043b\u043a\u0441\u043a\u0430\u044f", 
+            "region_ord": 108901091
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_73", 
+            "region_description": "\u0441\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_id": 110, 
+            "region_name": "\u0441\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_ord": 108901090
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_72", 
+            "region_description": "\u0441\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 111, 
+            "region_name": "\u0441\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 108901084
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_71", 
+            "region_description": "\u0441\u0438\u043c\u0431\u0438\u0440\u0441\u043a\u0430\u044f", 
+            "region_id": 112, 
+            "region_name": "\u0441\u0438\u043c\u0431\u0438\u0440\u0441\u043a\u0430\u044f", 
+            "region_ord": 108901080
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_70", 
+            "region_description": "\u0441\u0435\u043c\u0438\u0440\u0435\u0447\u0435\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 113, 
+            "region_name": "\u0441\u0435\u043c\u0438\u0440\u0435\u0447\u0435\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 108901077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_69", 
+            "region_description": "\u0441\u0435\u043c\u0438\u043f\u0430\u043b\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 114, 
+            "region_name": "\u0441\u0435\u043c\u0438\u043f\u0430\u043b\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 108901077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_68", 
+            "region_description": "\u0441\u0435\u0434\u043b\u0435\u0446\u043a\u0430\u044f", 
+            "region_id": 115, 
+            "region_name": "\u0441\u0435\u0434\u043b\u0435\u0446\u043a\u0430\u044f", 
+            "region_ord": 108901077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_67", 
+            "region_description": "\u0441\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "region_id": 116, 
+            "region_name": "\u0441\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "region_ord": 108901072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_66", 
+            "region_description": "\u0441\u0430\u043d\u043a\u0442-\u043f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f", 
+            "region_id": 117, 
+            "region_name": "\u0441\u0430\u043d\u043a\u0442-\u043f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f", 
+            "region_ord": 108901072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_65", 
+            "region_description": "\u0421\u0430\u043d\u043a\u0442-\u041c\u0438\u0445\u0435\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_id": 118, 
+            "region_name": "\u0421\u0430\u043d\u043a\u0442-\u041c\u0438\u0445\u0435\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_ord": 108901072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_64", 
+            "region_description": "\u0441\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f", 
+            "region_id": 119, 
+            "region_name": "\u0441\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f", 
+            "region_ord": 108901072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_63", 
+            "region_description": "\u0441\u0430\u043c\u0430\u0440\u043a\u0430\u043d\u0434\u0441\u043a\u0430\u044f", 
+            "region_id": 120, 
+            "region_name": "\u0441\u0430\u043c\u0430\u0440\u043a\u0430\u043d\u0434\u0441\u043a\u0430\u044f", 
+            "region_ord": 108901072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_62", 
+            "region_description": "\u0440\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 121, 
+            "region_name": "\u0440\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 108801103
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_61", 
+            "region_description": "\u0440\u0430\u0434\u043e\u043c\u0441\u043a\u0430\u044f", 
+            "region_id": 122, 
+            "region_name": "\u0440\u0430\u0434\u043e\u043c\u0441\u043a\u0430\u044f", 
+            "region_ord": 108801072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_60", 
+            "region_description": "\u043f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "region_id": 123, 
+            "region_name": "\u043f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "region_ord": 108701089
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_59", 
+            "region_description": "\u043f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0430\u044f", 
+            "region_id": 124, 
+            "region_name": "\u043f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0430\u044f", 
+            "region_ord": 108701088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_58", 
+            "region_description": "\u043f\u043e\u043b\u0442\u0430\u0432\u0441\u043a\u0430\u044f", 
+            "region_id": 125, 
+            "region_name": "\u043f\u043e\u043b\u0442\u0430\u0432\u0441\u043a\u0430\u044f", 
+            "region_ord": 108701086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_57", 
+            "region_description": "\u043f\u043e\u0434\u043e\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_id": 126, 
+            "region_name": "\u043f\u043e\u0434\u043e\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_ord": 108701086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_56", 
+            "region_description": "\u043f\u043b\u043e\u0446\u043a\u0430\u044f", 
+            "region_id": 127, 
+            "region_name": "\u043f\u043b\u043e\u0446\u043a\u0430\u044f", 
+            "region_ord": 108701083
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_55", 
+            "region_description": "\u043f\u0435\u0442\u0440\u043e\u043a\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "region_id": 128, 
+            "region_name": "\u043f\u0435\u0442\u0440\u043e\u043a\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "region_ord": 108701077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_54", 
+            "region_description": "\u043f\u0435\u0440\u043c\u0441\u043a\u0430\u044f", 
+            "region_id": 129, 
+            "region_name": "\u043f\u0435\u0440\u043c\u0441\u043a\u0430\u044f", 
+            "region_ord": 108701077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_53", 
+            "region_description": "\u043f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 130, 
+            "region_name": "\u043f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 108701077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_52", 
+            "region_description": "\u0441\u0430\u0445\u0430\u043b\u0438\u043d", 
+            "region_id": 131, 
+            "region_name": "\u0441\u0430\u0445\u0430\u043b\u0438\u043d", 
+            "region_ord": 108901072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_51", 
+            "region_description": "\u043e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "region_id": 132, 
+            "region_name": "\u043e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "region_ord": 108601088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_50", 
+            "region_description": "\u043e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f", 
+            "region_id": 133, 
+            "region_name": "\u043e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f", 
+            "region_ord": 108601088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_49", 
+            "region_description": "\u043e\u043b\u043e\u043d\u0435\u0446\u043a\u0430\u044f", 
+            "region_id": 134, 
+            "region_name": "\u043e\u043b\u043e\u043d\u0435\u0446\u043a\u0430\u044f", 
+            "region_ord": 108601083
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_48", 
+            "region_description": "\u041d\u044e\u043b\u0430\u043d\u0434\u0441\u043a\u0430\u044f", 
+            "region_id": 135, 
+            "region_name": "\u041d\u044e\u043b\u0430\u043d\u0434\u0441\u043a\u0430\u044f", 
+            "region_ord": 108501102
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_47", 
+            "region_description": "\u043d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f", 
+            "region_id": 136, 
+            "region_name": "\u043d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f", 
+            "region_ord": 108501086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_46", 
+            "region_description": "\u043d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f", 
+            "region_id": 137, 
+            "region_name": "\u043d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f", 
+            "region_ord": 108501080
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_45", 
+            "region_description": "\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "region_id": 138, 
+            "region_name": "\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "region_ord": 108401086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_44", 
+            "region_description": "\u043c\u043e\u0433\u0438\u043b\u0435\u0432\u0441\u043a\u0430\u044f", 
+            "region_id": 139, 
+            "region_name": "\u043c\u043e\u0433\u0438\u043b\u0435\u0432\u0441\u043a\u0430\u044f", 
+            "region_ord": 108401086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_43", 
+            "region_description": "\u043c\u0438\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 140, 
+            "region_name": "\u043c\u0438\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 108401080
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_42", 
+            "region_description": "\u043b\u044e\u0431\u043b\u0438\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 141, 
+            "region_name": "\u043b\u044e\u0431\u043b\u0438\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 108301102
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_41", 
+            "region_description": "\u043b\u043e\u043c\u0436\u0438\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 142, 
+            "region_name": "\u043b\u043e\u043c\u0436\u0438\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 108301086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_40", 
+            "region_description": "\u043b\u0438\u0444\u043b\u044f\u043d\u0434\u0441\u043a\u0430\u044f", 
+            "region_id": 143, 
+            "region_name": "\u043b\u0438\u0444\u043b\u044f\u043d\u0434\u0441\u043a\u0430\u044f", 
+            "region_ord": 108301080
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_39", 
+            "region_description": "\u043a\u0443\u0442\u0430\u0438\u0441\u0441\u043a\u0430\u044f", 
+            "region_id": 144, 
+            "region_name": "\u043a\u0443\u0442\u0430\u0438\u0441\u0441\u043a\u0430\u044f", 
+            "region_ord": 108201091
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_38", 
+            "region_description": "\u043a\u0443\u0440\u0441\u043a\u0430\u044f", 
+            "region_id": 145, 
+            "region_name": "\u043a\u0443\u0440\u0441\u043a\u0430\u044f", 
+            "region_ord": 108201091
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_37", 
+            "region_description": "\u043a\u0443\u0440\u043b\u044f\u043d\u0434\u0441\u043a\u0430\u044f", 
+            "region_id": 146, 
+            "region_name": "\u043a\u0443\u0440\u043b\u044f\u043d\u0434\u0441\u043a\u0430\u044f", 
+            "region_ord": 108201091
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_36", 
+            "region_description": "\u041a\u0443\u043e\u043f\u0438\u043e\u0441\u043a\u0430\u044f", 
+            "region_id": 147, 
+            "region_name": "\u041a\u0443\u043e\u043f\u0438\u043e\u0441\u043a\u0430\u044f", 
+            "region_ord": 108201091
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_35", 
+            "region_description": "\u043a\u0443\u0431\u0430\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 148, 
+            "region_name": "\u043a\u0443\u0431\u0430\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 108201091
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_34", 
+            "region_description": "\u043a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f", 
+            "region_id": 149, 
+            "region_name": "\u043a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f", 
+            "region_ord": 108201086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_33", 
+            "region_description": "\u043a\u043e\u0432\u0435\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 150, 
+            "region_name": "\u043a\u043e\u0432\u0435\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 108201086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_32", 
+            "region_description": "\u043a\u0438\u0435\u0432\u0441\u043a\u0430\u044f", 
+            "region_id": 151, 
+            "region_name": "\u043a\u0438\u0435\u0432\u0441\u043a\u0430\u044f", 
+            "region_ord": 108201080
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_31", 
+            "region_description": "\u043a\u0435\u043b\u0435\u0446\u043a\u0430\u044f", 
+            "region_id": 152, 
+            "region_name": "\u043a\u0435\u043b\u0435\u0446\u043a\u0430\u044f", 
+            "region_ord": 108201077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_30", 
+            "region_description": "\u043a\u0430\u0440\u0441\u043a\u0430\u044f", 
+            "region_id": 153, 
+            "region_name": "\u043a\u0430\u0440\u0441\u043a\u0430\u044f", 
+            "region_ord": 108201072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_29", 
+            "region_description": "\u043a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f", 
+            "region_id": 154, 
+            "region_name": "\u043a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f", 
+            "region_ord": 108201072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_28", 
+            "region_description": "\u043a\u0430\u043b\u0438\u0448\u0441\u043a\u0430\u044f", 
+            "region_id": 155, 
+            "region_name": "\u043a\u0430\u043b\u0438\u0448\u0441\u043a\u0430\u044f", 
+            "region_ord": 108201072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_27", 
+            "region_description": "\u043a\u0430\u0437\u0430\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 156, 
+            "region_name": "\u043a\u0430\u0437\u0430\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 108201072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_26", 
+            "region_description": "\u0438\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f", 
+            "region_id": 157, 
+            "region_name": "\u0438\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f", 
+            "region_ord": 108001088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_25", 
+            "region_description": "\u0437\u0430\u043a\u0430\u0441\u043f\u0438\u0439\u0441\u043a\u0430\u044f", 
+            "region_id": 158, 
+            "region_name": "\u0437\u0430\u043a\u0430\u0441\u043f\u0438\u0439\u0441\u043a\u0430\u044f", 
+            "region_ord": 107901072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_24", 
+            "region_description": "\u0437\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_id": 159, 
+            "region_name": "\u0437\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_ord": 107901072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_23", 
+            "region_description": "\u0435\u043d\u0438\u0441\u0435\u0439\u0441\u043a\u0430\u044f", 
+            "region_id": 160, 
+            "region_name": "\u0435\u043d\u0438\u0441\u0435\u0439\u0441\u043a\u0430\u044f", 
+            "region_ord": 107701085
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_22", 
+            "region_description": "\u0435\u043b\u0438\u0441\u0430\u0432\u0435\u0442\u043f\u043e\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_id": 161, 
+            "region_name": "\u0435\u043b\u0438\u0441\u0430\u0432\u0435\u0442\u043f\u043e\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_ord": 107701083
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_21", 
+            "region_description": "\u0435\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f", 
+            "region_id": 162, 
+            "region_name": "\u0435\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f", 
+            "region_ord": 107701082
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_20", 
+            "region_description": "\u0434\u0430\u0433\u0435\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 163, 
+            "region_name": "\u0434\u0430\u0433\u0435\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 107601072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_19", 
+            "region_description": "\u0433\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 164, 
+            "region_name": "\u0433\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 107501088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_18", 
+            "region_description": "\u0432\u044f\u0442\u0441\u043a\u0430\u044f", 
+            "region_id": 165, 
+            "region_name": "\u0432\u044f\u0442\u0441\u043a\u0430\u044f", 
+            "region_ord": 107401103
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_17 1897_65", 
+            "region_description": "\u0412\u044b\u0431\u043e\u0440\u0433\u0441\u043a\u0430\u044f \u0438 \u0421.-\u041c\u0438\u0445\u0435\u043b\u044c\u0441\u043a\u0430\u044f\u0433\u0443\u0431\u0435\u0440\u043d\u0438\u044f", 
+            "region_id": 166, 
+            "region_name": "\u0412\u044b\u0431\u043e\u0440\u0433\u0441\u043a\u0430\u044f \u0438 \u0421.-\u041c\u0438\u0445\u0435\u043b\u044c\u0441\u043a\u0430\u044f\u0433\u0443\u0431\u0435\u0440\u043d\u0438\u044f", 
+            "region_ord": 107401099
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_17", 
+            "region_description": "\u0412\u044b\u0431\u043e\u0440\u0433\u0441\u043a\u0430\u044f", 
+            "region_id": 167, 
+            "region_name": "\u0412\u044b\u0431\u043e\u0440\u0433\u0441\u043a\u0430\u044f", 
+            "region_ord": 107401099
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_16", 
+            "region_description": "\u0432\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f", 
+            "region_id": 168, 
+            "region_name": "\u0432\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f", 
+            "region_ord": 107401086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_15", 
+            "region_description": "\u0432\u043e\u043b\u044b\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 169, 
+            "region_name": "\u0432\u043e\u043b\u044b\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 107401086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_14", 
+            "region_description": "\u0432\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f", 
+            "region_id": 170, 
+            "region_name": "\u0432\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f", 
+            "region_ord": 107401086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_13", 
+            "region_description": "\u0432\u043e\u0439\u0441\u043a\u0430 \u0434\u043e\u043d\u0441\u043a\u043e\u0433\u043e", 
+            "region_id": 171, 
+            "region_name": "\u0432\u043e\u0439\u0441\u043a\u0430 \u0434\u043e\u043d\u0441\u043a\u043e\u0433\u043e", 
+            "region_ord": 107401086
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_12", 
+            "region_description": "\u0432\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f", 
+            "region_id": 172, 
+            "region_name": "\u0432\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f", 
+            "region_ord": 107401083
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_11", 
+            "region_description": "\u0432\u0438\u0442\u0435\u0431\u0441\u043a\u0430\u044f", 
+            "region_id": 173, 
+            "region_name": "\u0432\u0438\u0442\u0435\u0431\u0441\u043a\u0430\u044f", 
+            "region_ord": 107401080
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_10", 
+            "region_description": "\u0432\u0438\u043b\u0435\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 174, 
+            "region_name": "\u0432\u0438\u043b\u0435\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 107401080
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_09", 
+            "region_description": "\u0432\u0430\u0440\u0448\u0430\u0432\u0441\u043a\u0430\u044f", 
+            "region_id": 175, 
+            "region_name": "\u0432\u0430\u0440\u0448\u0430\u0432\u0441\u043a\u0430\u044f", 
+            "region_ord": 107401072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_08", 
+            "region_description": "\u0412\u0430\u0437\u0430\u0441\u043a\u0430\u044f", 
+            "region_id": 176, 
+            "region_name": "\u0412\u0430\u0437\u0430\u0441\u043a\u0430\u044f", 
+            "region_ord": 107401072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_07", 
+            "region_description": "\u0431\u0435\u0441\u0441\u0430\u0440\u0430\u0431\u0441\u043a\u0430\u044f", 
+            "region_id": 177, 
+            "region_name": "\u0431\u0435\u0441\u0441\u0430\u0440\u0430\u0431\u0441\u043a\u0430\u044f", 
+            "region_ord": 107301077
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_06", 
+            "region_description": "\u0431\u0430\u043a\u0438\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 178, 
+            "region_name": "\u0431\u0430\u043a\u0438\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 107301072
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_05", 
+            "region_description": "\u0430\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 179, 
+            "region_name": "\u0430\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 107201089
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_04", 
+            "region_description": "\u0430\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_id": 180, 
+            "region_name": "\u0430\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f", 
+            "region_ord": 107201088
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_03", 
+            "region_description": "\u0430\u043c\u0443\u0440\u0441\u043a\u0430\u044f", 
+            "region_id": 181, 
+            "region_name": "\u0430\u043c\u0443\u0440\u0441\u043a\u0430\u044f", 
+            "region_ord": 107201084
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_02", 
+            "region_description": "\u0430\u043a\u043c\u043e\u043b\u0438\u043d\u0441\u043a\u0430\u044f", 
+            "region_id": 182, 
+            "region_name": "\u0430\u043a\u043c\u043e\u043b\u0438\u043d\u0441\u043a\u0430\u044f", 
+            "region_ord": 107201082
+        }, 
+        {
+            "active": 1, 
+            "region_code": "1897_01", 
+            "region_description": "\u0410\u0431\u043e-\u0411\u044c\u0435\u0440\u043d\u0435\u0431\u043e\u0440\u0433\u0441\u043a\u0430\u044f", 
+            "region_id": 183, 
+            "region_name": "\u0410\u0431\u043e-\u0411\u044c\u0435\u0440\u043d\u0435\u0431\u043e\u0440\u0433\u0441\u043a\u0430\u044f", 
+            "region_ord": 107201073
+        }
+    ]
+}
