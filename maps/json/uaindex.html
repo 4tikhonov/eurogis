@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<meta charset='utf-8'>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=1.0">
+<style>
+
+body {
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+}
+
+.country {
+  fill: #E7E7E7;
+  stroke: none;
+}
+
+.country-boundary {
+  fill: none;
+  stroke: #999;
+}
+
+.region {
+  stroke: none;
+}
+
+.region-boundary {
+  fill: none;
+  stroke: #424242;
+  stroke-dasharray: 2 2;
+  stroke-linejoin: round;
+  opacity: 0.5;
+}
+
+.ukraine-boundary {
+  fill: none;
+  stroke: #333;
+}
+
+.river {
+  fill: none;
+  stroke: #fff;
+}
+.lake {
+  fill: #fff;
+  stroke: none;
+}
+
+</style>
+<body>
+
+<div id='map'></div>
+
+<script src='http://d3js.org/d3.v3.min.js'></script>
+<script src='http://d3js.org/topojson.v1.min.js'></script>
+<script>
+
+var mapScale = 4.35;
+var mapRatio = .65;
+var width = parseInt(d3.select('#map').style('width'));
+var height = width * mapRatio;
+
+var projection = d3.geo.albers()
+  .center([0, 48.5])
+  .rotate([-31.5, 0])
+  .parallels([45, 50])
+  .scale(width * mapScale)
+  .translate([width / 2, height / 2]);
+
+var color = d3.scale.threshold()
+  .domain([10, 20, 30, 50])
+  .range(['#F7CB6D', '#C4AA73', '#899BAD', '#739AC4', '#2E5C8A'])
+
+var svg = d3.select('#map').append('svg')
+  .attr('width', width)
+  .attr('height', height);
+
+var countriesPath;
+var regionsPath;
+var riversPath;
+var lakesPath;
+
+d3.json('ukraine.json', function(error, data) {
+  var countries = topojson.feature(data, data.objects.countries);
+
+  countriesPath = d3.geo.path()
+    .projection(projection);
+
+  svg.selectAll('.country')
+    .data(countries.features)
+    .enter().append('path')
+      .attr('class', 'country')
+      .attr('d', countriesPath)
+
+  var countryBoundaries = topojson.mesh(data, data.objects.countries,
+      function(a, b) { return a !== b });
+
+  svg.append('path')
+    .datum(countryBoundaries)
+    .attr('class', 'country-boundary')
+    .attr('d', countriesPath)
+
+  var regions = topojson.feature(data, data.objects['ukraine-regions']);
+
+  regionsPath = d3.geo.path()
+    .projection(projection);
+
+  svg.selectAll('.region')
+    .data(regions.features)
+    .enter().append('path')
+      .attr('class', 'region')
+      .attr('d', regionsPath)
+      .style('fill', function(d) { return color(d.properties.percent); })
+
+  var rivers = topojson.feature(data, data.objects['rivers_lake_centerlines']);
+
+  riversPath = d3.geo.path()
+    .projection(projection);
+
+  svg.selectAll('.river')
+    .data(rivers.features)
+    .enter().append('path')
+      .attr('class', 'river')
+      .attr('d', riversPath)
+
+  var lakes = topojson.feature(data, data.objects.lakes);
+
+  lakesPath = d3.geo.path()
+    .projection(projection);
+
+  svg.selectAll('.lake')
+    .data(lakes.features)
+    .enter().append('path')
+      .attr('class', 'lake')
+      .attr('d', lakesPath)
+
+  var ukraineRegionBoundaries = topojson.mesh(data,
+      data.objects['ukraine-regions'], function(a, b) { return a !== b });
+
+  svg.append('path')
+    .datum(ukraineRegionBoundaries)
+    .attr('d', regionsPath)
+    .attr('class', 'region-boundary')
+
+  var ukraineBoundaries = topojson.mesh(data,
+      data.objects['ukraine-regions'], function(a, b) { return a === b });
+
+  svg.append('path')
+    .datum(ukraineBoundaries)
+    .attr('d', regionsPath)
+    .attr('class', 'ukraine-boundary')
+
+  d3.select(window).on('resize', resize);
+});
+
+function resize() {
+  width = parseInt(d3.select('#map').style('width'));
+  height = width * mapRatio;
+
+  svg
+    .style('width', width + 'px')
+    .style('height', height + 'px');
+
+  svg.selectAll('.country,.country-boundary').attr('d', countriesPath);
+  svg.selectAll('.region,.region-boundary,.ukraine-boundary').attr('d', regionsPath);
+  svg.selectAll('.lake').attr('d', lakesPath);
+  svg.selectAll('.river').attr('d', riversPath);
+
+  projection
+    .scale(width * mapScale)
+    .translate([width / 2, height / 2]);
+}
+
+</script>
