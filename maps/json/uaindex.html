@@ -9,6 +9,11 @@ body {
   margin: auto;
 }
 
+.city {
+  font: 10px sans-serif;
+  font-weight: bold;
+}
+
 .country {
   fill: #E7E7E7;
   stroke: none;
@@ -79,7 +84,7 @@ var regionsPath;
 var riversPath;
 var lakesPath;
 
-d3.json('ukraine.json', function(error, data) {
+d3.json('ua.geo.json', function(error, data) {
   var countries = topojson.feature(data, data.objects.countries);
 
   countriesPath = d3.geo.path()
@@ -148,6 +153,26 @@ d3.json('ukraine.json', function(error, data) {
     .datum(ukraineBoundaries)
     .attr('d', regionsPath)
     .attr('class', 'ukraine-boundary')
+
+   // Adding cities on the map
+
+  d3.tsv("ua.cities_eng.tsv", function(error, data) {
+    var city = svg.selectAll("g.city")
+    .data(data)
+    .enter()
+    .append("g")
+    .attr("class", "city")
+    .attr("transform", function(d) { return "translate(" + projection([d.lon, d.lat]) + ")"; });
+
+    city.append("circle")
+    .attr("r", 3)
+    .style("fill", "lime")
+    .style("opacity", 0.75);
+
+    city.append("text")
+    .attr("x", 5)
+    .text(function(d) { alert(d.City); return d.City; });
+  });
 
   d3.select(window).on('resize', resize);
 });
