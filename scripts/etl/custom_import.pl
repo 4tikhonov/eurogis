@@ -74,6 +74,17 @@ while (<>)
     $lineID++;
 }
 
+foreach $topic (sort %topics)
+{
+    if ($topics{$topic})
+    {
+       $name = $dbh->quote("$topics{$topic}");
+       $insert = "insert into datasets.topics (topic_name, topic_code, datatype, topic_root, description, topic_name_rus) values ($name, '$topic', '0', '0', ' ', ' ')";
+       $dbh->do($insert);
+       #print "$insert\n";
+    }
+}
+
 # Aggregation
 foreach $lineID (sort keys %data)
 {
@@ -106,17 +117,6 @@ foreach $lineID (sort keys %data)
    $added{$year}{$code}++;
    # $sql = "insert into datasets.data (cbsnr, naam, year, code, indicator, value, amsterdam_code) values ('$cbsnr', $naamq, '$year', '$mcode', $indicator, '$items[$i]', '$acode');";
    #parser($str);
-}
-
-foreach $topic (sort %topics)
-{
-    if ($topics{$topic})
-    {
-       $name = $dbh->quote("$topics{$topic}");
-       $insert = "insert into datasets.topics (topic_name, topic_code, datatype, topic_root, description, topic_name_rus) values ($name, '$topic', '0', '0', ' ', ' ')";
-       $dbh->do($insert);
-       #print "$insert\n";
-    }
 }
 
 sub loadconfig
