@@ -43,28 +43,51 @@ sub preprocessing
 	break;
     }
 
-    print "$delim\n";
+    print "$delim\n" if ($DEBUG);
+    $DEBUG = 1;
+    my ($origfieldshash, $refhash) = analyze_fields($titleline, $delim, $DEBUG);
+    return ($titleline, $delim, @dataset);
+}
+
+sub analyze_fields
+{
+    my ($titleline, $delim, $DEBUG) = @_;
+    my @origfields;
+
     if ($titleline)
     {
 	@fields = split(/$delim/, $titleline);
-	foreach $item (@fields)
+	for ($i=0; $i<=$#fields; $i++)
 	{
+	    $item = $fields[$i];
+	    $item=~s/^\"|\"$//g;
+	    push(@origfields, "o_".$item);
+	    print "[DEBUG] $i $item\n" if ($DEBUG);
 	    # Find year
 	    # Find location code (amsterdam code)
 	    $name = $item;
+	    my $rname;
 	    if ($item=~/amsterdam/sxi)
 	    {
-	  	$name = "ams_code";
+	  	$rname = "amsterdam_code";
 	    }
 	    elsif ($item=~/(jaar|year)/i)
 	    {
-		$name = "year";
+		$rname = "year";
+	    }
+	    elsif ($item=~/value/i)
+	    {
+	 	$rname = "value";
 	    }
 
-	    push(@refields, $name);
+	    if ($rname)
+	    { 
+		$refnames{$rname} = $i;
+		print "[DEBUG] $rname $i\n" if ($DEBUG);
+	    }
 	}
-	print "@fields => @refields\n";
+	print "[DEBUG] @origfields\n" if ($DEBUG);
     }
 
-    return ($titleline, $delim, @dataset);
+    return (\@origfields, \%refnames);
 }
