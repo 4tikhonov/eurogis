@@ -1,19 +1,66 @@
 #!/usr/bin/perl
 
 $DEBUG = 0;
-while (<>)
+$DEBUGALL = 0;
+$file = $ARGV[0];
+open(file, $file);
+while (<file>)
 {
     $str = $_;
-#    print "$str";
     $data.=$str;
 }
+close(file);
 
-($title, @data) = preprocessing($data, $DEBUG);
-print "$title\n";
+($title, $delim, $datahash, $fieldshash, $refhash) = preprocessing($data, $DEBUG);
+
+open(convfile, ">$file.out.csv");
+if ($datahash)
+{
+   %data = %{$datahash};
+   %ref = %{$refhash};
+   %fields = %{$fieldshash};
+   my $titleline;
+   foreach $i (sort keys %fields)
+   {
+	$titleline.="$fields{$i}$delim"
+   }
+   foreach $i (sort keys %ref)
+   {
+	$titleline.="$i$delim"
+   }
+   $titleline=~s/$delim$//g;
+   print convfile "$titleline\n";
+
+   foreach $lID (sort keys %data)
+   {
+	my %values = %{$data{$lID}};
+	my $datavalue;
+	print "D $lID " if ($DEBUGALL);
+	foreach $i (sort keys %fields)
+	{
+	   my $field = $fields{$i};
+	   my $value = $values{$i};
+	   $datavalue.="$value$delim";
+	   print "	$field $value\n" if ($DEBUGALL);
+	}
+	foreach $i (sort keys %ref)
+	{
+	   my $value = $values{$ref{$i}};
+	   $datavalue.="$value$delim";
+	   print "	$i $value\n" if ($DEBUGALL);
+	}
+
+	# Save datavalue 
+	$datavalue=~s/$delim$//g;
+	print convfile "$datavalue\n";
+   }
+};
+close(convfile);
 
 sub preprocessing
 {
     ($str, $DEBUG) = @_;
+    my (%dataset, @tmpdataset);
     $str=~s/\r/\n/g;
 
     @data = split(/\n/, $str);
@@ -23,7 +70,7 @@ sub preprocessing
 	$item=~s/\;$//g;
 	$item=~s/\,$//g;
 	$titleline = $item unless ($titleline);
-	push(@dataset, $item);
+	push(@tmpdataset, $item) if ($item=~/\w+/);
         # Found delimiter
         $delstr = $item;
         $delstr=~s/\w+//g;
@@ -44,15 +91,30 @@ sub preprocessing
     }
 
     print "$delim\n" if ($DEBUG);
-    $DEBUG = 1;
     my ($origfieldshash, $refhash) = analyze_fields($titleline, $delim, $DEBUG);
-    return ($titleline, $delim, @dataset);
+    my $lID = 0;
+    foreach $datavalue (@tmpdataset)
+    {
+	my @data = split(/$delim/, $datavalue);
+	for ($i=0; $i<=$#data; $i++)
+	{
+	    if ($lID)
+	    {
+	       $value = $data[$i];
+	       $value=~s/^\"|\"$//g;
+	       $dataset{$lID}{$i} = $value;
+	    };
+	}
+	$lID++;
+    }
+
+    return ($titleline, $delim, \%dataset, $origfieldshash, $refhash);
 }
 
 sub analyze_fields
 {
     my ($titleline, $delim, $DEBUG) = @_;
-    my @origfields;
+    my %origfields;
 
     if ($titleline)
     {
@@ -61,8 +123,10 @@ sub analyze_fields
 	{
 	    $item = $fields[$i];
 	    $item=~s/^\"|\"$//g;
-	    push(@origfields, "o_".$item);
+	    $origfields{$i} = "o_".$item;
+
 	    print "[DEBUG] $i $item\n" if ($DEBUG);
+
 	    # Find year
 	    # Find location code (amsterdam code)
 	    $name = $item;
@@ -89,5 +153,5 @@ sub analyze_fields
 	print "[DEBUG] @origfields\n" if ($DEBUG);
     }
 
-    return (\@origfields, \%refnames);
+    return (\%origfields, \%refnames);
 }
